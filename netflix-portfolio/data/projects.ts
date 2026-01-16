@@ -216,4 +216,55 @@ export const sections = [
       },
     ],
   },
+
+  {
+  id: "discipline",
+  title: "Discipline & Consistency",
+  items: [
+    {
+      engineer: {
+        title: "Structured Fitness System",
+        preview: "Long-term consistency through routines",
+        sections: [
+          {
+            heading: "System Design",
+            text: "Built a repeatable fitness routine focused on progressive overload, recovery, and nutrition tracking.",
+          },
+        ],
+      },
+      pm: {
+        title: "Building High-Discipline Personal Systems",
+        preview: "Consistency over motivation",
+        sections: [
+          {
+            heading: "Principle",
+            text: "Designed personal systems that remove reliance on motivation and enable long-term execution.",
+          },
+        ],
+      },
+    },
+    {
+      engineer: {
+        title: "Habit Tracking & Feedback Loops",
+        preview: "Data-driven self-improvement",
+        sections: [
+          {
+            heading: "Approach",
+            text: "Tracked workouts, nutrition, and recovery to identify bottlenecks and optimize performance.",
+          },
+        ],
+      },
+      pm: {
+        title: "Applying Feedback Loops to Personal Growth",
+        preview: "Measure → Learn → Adjust",
+        sections: [
+          {
+            heading: "Outcome",
+            text: "Used measurable signals to refine routines and sustain progress over time.",
+          },
+        ],
+      },
+    },
+  ],
+},
 ];
